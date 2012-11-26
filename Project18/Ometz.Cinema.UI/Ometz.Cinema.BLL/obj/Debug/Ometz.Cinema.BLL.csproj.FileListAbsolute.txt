@@ -1,0 +1,7 @@
+C:\Users\ometz\Documents\Visual Studio 2010\Projects\Project18\Ometz.Cinema.UI\Ometz.Cinema.BLL\bin\Debug\Ometz.Cinema.BLL.dll
+C:\Users\ometz\Documents\Visual Studio 2010\Projects\Project18\Ometz.Cinema.UI\Ometz.Cinema.BLL\bin\Debug\Ometz.Cinema.BLL.pdb
+C:\Users\ometz\Documents\Visual Studio 2010\Projects\Project18\Ometz.Cinema.UI\Ometz.Cinema.BLL\bin\Debug\Ometz.Cinema.DAL.dll
+C:\Users\ometz\Documents\Visual Studio 2010\Projects\Project18\Ometz.Cinema.UI\Ometz.Cinema.BLL\bin\Debug\Ometz.Cinema.DAL.pdb
+C:\Users\ometz\Documents\Visual Studio 2010\Projects\Project18\Ometz.Cinema.UI\Ometz.Cinema.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ometz\Documents\Visual Studio 2010\Projects\Project18\Ometz.Cinema.UI\Ometz.Cinema.BLL\obj\Debug\Ometz.Cinema.BLL.dll
+C:\Users\ometz\Documents\Visual Studio 2010\Projects\Project18\Ometz.Cinema.UI\Ometz.Cinema.BLL\obj\Debug\Ometz.Cinema.BLL.pdb
